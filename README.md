@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="350"/>
+  <img src="https://media.tenor.com/v_e613Qc4CEAAAAM/kiciunia-lawunia.gif" width="350"/>
 </p>
